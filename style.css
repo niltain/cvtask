@@ -1,0 +1,27 @@
+body{
+    background-image: url("images/background.jpg");
+    text-align: center;
+}
+.info{
+    text-align: left;
+    padding: 0 50pt;
+}
+
+.photo{
+    display: contents;
+    width: 20%;
+    height: 20%;
+}
+.photo_cv{
+    width:10%;
+    height: auto;
+}
+.audio{
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: left;
+    padding: 0 50pt;
+}
+.audio_con{
+    padding: 0px 100px 0 0;
+}
